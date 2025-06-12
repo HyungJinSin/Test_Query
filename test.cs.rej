@@ -1,6 +1,0 @@
-diff a/test.cs b/test.cs	(rejected hunks)
-@@ -1 +1,3 @@
- #include stdio.h
-+printf("Hello World");
-+delete line 5 Check Out
-+

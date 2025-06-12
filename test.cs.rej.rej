@@ -1,5 +1,0 @@
-diff a/test.cs.rej b/test.cs.rej	(rejected hunks)
-@@ -0,0 +1,3 @@
-+diff a/test.cs b/test.cs	(rejected hunks)
-+@@ -0,0 +1 @@
-++#include stdio.h
