@@ -8,4 +8,10 @@ SDFASDFSDFSADF\
 SDFASDFSDFSADF
 브랜치 3에서 수정을 좀 해봤어요.
   어때요?
+<<<<<<< HEAD
 >>>>>>> e4cf2f26ebcd9e839a93d051fa1a229c6c881a12
+=======
+
+
+HJSHIN에서 수정했습니다. 잘 되었을까요?
+>>>>>>> Branch_HJShin
