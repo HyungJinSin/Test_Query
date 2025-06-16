@@ -15,3 +15,5 @@ select * from I_LOT_MASTER;
 select * from B_LANGUAGE;
 
 20250616 2개 파일을 업로드 하는 테스트를 실시 합니다.
+
+20250616 2개 파일을 업로드 하는 테스트를 실시 합니다. *브랜치 추가
